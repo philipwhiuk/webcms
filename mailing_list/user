@@ -1,0 +1,5 @@
+<?php
+class MailingList_User {
+  public $user;
+  public $mailing_list;
+}
